@@ -10,7 +10,7 @@
 
 ## 🛠️ Kullandığım Teknolojiler
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,react,vue,bootstrap,tailwind,git,github,js,html,css,docker,nodejs,mysql,navicat" alt="Tech stack">
+  <img src="https://skillicons.dev/icons?i=laravel,react,vue,bootstrap,tailwind,git,github,js,html,css,nodejs,mysql,navicat" alt="Tech stack">
 </p>
 
 ---
