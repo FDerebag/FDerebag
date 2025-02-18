@@ -24,14 +24,6 @@
 
 ---
 
-## 🐍 GitHub Yılan Animizasyonu
-<p align="center">
-  <img src="https://raw.githubusercontent.com/FDerebag/FDerebag/output/github-contribution-grid-snake.svg" alt="Yılan animasyonu" />
-  📌 **Not:** Eğer görünmüyorsa, GitHub Actions ve branch ayarlarını kontrol edin.
-</p>
-
----
-
 ## 📫 Bana Ulaşın
 - 💼 [LinkedIn](https://www.linkedin.com/in/furkan-derebag-51407b300/)
 - 📧 E-posta: frkndrbg@gmail.com
