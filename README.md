@@ -10,7 +10,7 @@
 
 ## 🛠️ Kullandığım Teknolojiler
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,react,vue,bootstrap,tailwind,git,github,js,html,css,docker,nodejs,mysql,navicat" alt="Tech stack">
+  <img src="https://skillicons.dev/icons?i=laravel,react,vue,bootstrap,tailwind,git,github,js,html,css,nodejs,mysql,navicat" alt="Tech stack">
 </p>
 
 ---
@@ -26,12 +26,11 @@
 
 ## 🐍 GitHub Yılan Animizasyonu
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FDerebag/FDerebag/output/github-contribution-grid-snake.svg" alt="Yılan animasyonu" />
-  📌 **Not:** Eğer görünmüyorsa, GitHub Actions ve branch ayarlarını kontrol edin.
+  <img src="https://raw.githubusercontent.com/FDerebag/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
 
 ## 📫 Bana Ulaşın
 - 💼 [LinkedIn](https://www.linkedin.com/in/furkan-derebag-51407b300/)
-- 📧 E-posta: frkndrbg@gmail.com
+- 📧 frkndrbg@gmail.com
