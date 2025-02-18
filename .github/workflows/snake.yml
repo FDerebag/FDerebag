@@ -16,9 +16,9 @@ jobs:
         run: echo "GITHUB_USERNAME=${{ github.repository_owner }}" >> $GITHUB_ENV
 
       - name: Generate Snake
-        uses: Platane/snk@v2
+        uses: Platane/snk@v3.0.0
         with:
-          github_user_name: ${{ env.GITHUB_USERNAME }}
+          github_user_name: "${{ env.GITHUB_USERNAME }}"
           outputs: dist/github-contribution-grid-snake.svg
 
       - name: Push to output branch
