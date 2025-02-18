@@ -26,4 +26,4 @@
 
 ## 📫 Bana Ulaşın
 - 💼 [LinkedIn](https://www.linkedin.com/in/furkan-derebag-51407b300/)
-- 📧 E-posta: frkndrbg@gmail.com
+- 📧 frkndrbg@gmail.com
