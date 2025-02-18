@@ -15,16 +15,16 @@
 
 ## 📊 GitHub İstatistikleri
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kullanici-adin&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=kullanici-adin&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kullanici-adin&theme=radical" alt="GitHub Profile Summary" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FDerebag&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FDerebag&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FDerebag&theme=radical" alt="GitHub Profile Summary" />
 </p>
 
 ---
 
 ## 🐍 GitHub Yılan Animizasyonu
 <p align="center">
-  <img src="https://github.com/kullanici-adin/kullanici-adin/blob/output/github-contribution-grid-snake.svg" alt="snake animation">
+  <img src="https://github.com/FDerebag/FDerebag/blob/output/github-contribution-grid-snake.svg" alt="snake animation">
 </p>
 
 ---
