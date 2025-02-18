@@ -1,24 +1,35 @@
-# 👋 Merhaba, ben Furkan,
+# 👋 Merhaba, ben Furkan
 
 ## 🚀 Hakkımda
 - 💻 Yazılım geliştiricisiyim, ağırlıklı olarak Laravel, React ve Tailwind kullanıyorum.
-- 🚀 Çeşitli projelerde deneyim kazandım.
+- 🚀 Farklı projelerde deneyim kazandım ve açık kaynak projelere katkı sağlıyorum.
 
 ---
 
 ## 🛠️ Kullandığım Teknolojiler
-![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel)
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,react,tailwind,git,github" alt="Tech stack">
+</p>
 
 ---
 
 ## 📊 GitHub İstatistikleri
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FDerebag&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kullanici-adin&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kullanici-adin&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kullanici-adin&theme=radical" alt="GitHub Profile Summary" />
+</p>
+
+---
+
+## 🐍 GitHub Yılan Animizasyonu
+<p align="center">
+  <img src="https://github.com/kullanici-adin/kullanici-adin/blob/output/github-contribution-grid-snake.svg" alt="snake animation">
+</p>
+
 ---
 
 ## 📫 Bana Ulaşın
 - 💼 [LinkedIn](https://www.linkedin.com/in/furkan-derebag-51407b300/)
 - 📧 E-posta: frkndrbg@gmail.com
+
